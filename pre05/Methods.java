@@ -25,7 +25,7 @@ public class Methods{
 	}
 	
 	public static int ack(int m, int n){
-		int A = 0;
+		int A;
 		
 		if(m == 0){
 			A = n + 1;
